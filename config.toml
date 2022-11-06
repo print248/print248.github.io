@@ -7,7 +7,12 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; Copyright 2022, bysniper"
+copyright = "&copy; Copyright 2021, bysniper"
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
 
 # Main menu items
 [menu]
@@ -32,7 +37,7 @@ copyright = "&copy; Copyright 2022, bysniper"
 
 # Configuration Features
 [params]
-  description = "锦瑟无端五十弦，一弦一柱思华年"      # Your meta description of the site
+  description = "blog of bysniper"      # Your meta description of the site
   header_title = "bysniper"                 # Your header title
   header_subtitle = "锦瑟无端五十弦，一弦一柱思华年" # Your header subtitle
   home_image = "/images/avatar.png"          # Path to header image starting from the static directory
