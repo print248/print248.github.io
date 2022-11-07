@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bysniper.win/'
 languageCode = 'zh-cn'
 title = 'Personal Site of bysniper'
 theme = "devise"
