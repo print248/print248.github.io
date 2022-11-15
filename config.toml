@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bysniper.win/'
 languageCode = 'zh-cn'
 title = 'Personal Site of bysniper'
 theme = "devise"
@@ -58,3 +58,4 @@ copyright = "&copy; Copyright 2021, bysniper"
   [[params.social]]
     fa_icon = "fas fa-at fa-1x"
     href = "mailto:admin@bysniper.win"
+
