@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on Personal Site of bysniper</title>
+    <link>https://bysniper.win/posts/</link>
+    <description>Recent content in post on Personal Site of bysniper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright 2021, bysniper</copyright>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>时间复杂度分析</title>
+      <link>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</guid>
+      <description>学习数据结构和算法可以有效提高我们代码的执行效率，那么怎么衡量代码的执行效率呢，这就涉及到数据结构和算法课程中重要的基础内容——复杂度分析。复杂度分析又有时间复杂度分析和空间复杂度分析，通俗地讲，就是看执行算法消耗了多少时间和空间，今天就来学习下时间复杂度分析。
+大O表示法 这里有段非常简单的代码，求 1,2,3&amp;hellip;n 的累加和。
+int cal(int n) { int sum = 0; int i = 1; for (; i &amp;lt;= n; ++i) { sum = sum + i; } return sum; } 从 CPU 的角度来看，这段代码的每一行都执行着类似的操作：读数据-运算-写数据。尽管每行代码对应的 CPU 执行的个数、执行的时间都不一样，但是，我们这里只是粗略估计，所以可以假设每行代码执行的时间都一样，为 unit_time。在这个假设的基础之上，这段代码的总执行时间是多少呢？
+第 2、3 行代码分别需要 1 个 unit_time 的执行时间，第 4、5 行都运行了 n 遍，所以需要 2n个unit_time 的执行时间，所以这段代码总的执行时间就是 (2n+2)个unit_time。可以看出来，所有代码的执行时间 T(n) 与每行代码的执行次数成正比。按照这个分析思路，我们再来看这段代码。
+int cal(int n) { int sum = 0; int i = 1; int j = 1; for (; i &amp;lt;= n; ++i) { j = 1; for (; j &amp;lt;= n; ++j) { sum = sum + i * j; } } } 我们依旧假设每个语句的执行时间是 unit_time。那这段代码的总执行时间 T(n) 是多少呢？</description>
+    </item>
+    
+    <item>
+      <title>凌晨四点的洛杉矶</title>
+      <link>https://bysniper.win/posts/mamba/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/posts/mamba/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>经济机器是如何运行的</title>
+      <link>https://bysniper.win/posts/%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/posts/%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

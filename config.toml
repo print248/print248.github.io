@@ -7,7 +7,7 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; Copyright 2021, bysniper"
+copyright = "&copy; Copyright 2023, bysniper"
 
 [markup]
 	[markup.goldmark]

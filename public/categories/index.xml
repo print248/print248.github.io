@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Personal Site of bysniper</title>
+    <link>https://bysniper.win/categories/</link>
+    <description>Recent content in Categories on Personal Site of bysniper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright 2021, bysniper</copyright>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>algorithm</title>
+      <link>https://bysniper.win/categories/algorithm/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/categories/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://bysniper.win/categories/life/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investment</title>
+      <link>https://bysniper.win/categories/investment/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/categories/investment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
