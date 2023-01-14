@@ -1,0 +1,86 @@
+baseurl: "https://bysniper.win"
+languageCode: "en-us"
+title: "blog of bysniper"
+theme: "hugo-tania"
+paginate: 6
+
+disqusShortname: https-hugo-tania-netlify-app
+
+params:
+  # Emoji will show before the blog title on site navbar.
+  titleEmoji: ⛹️
+
+  # Logo will show before the blog title on site navbar.
+  # titleLogo: favicon.ico
+  
+  # Enable float footnotes.
+  # Default to true
+  enableFootnotes: true
+  
+  siteName: "bysniper's blog site"
+  siteDesc: "bysniper's blog site"
+  author: "bysniper"
+
+  colorScheme:
+    # Enable toggle colorScheme
+    # Default to true
+    toggle: true
+    # Default colorScheme
+    # Default to auto
+    default: auto
+
+  # Limit how many categories filter show above search input.
+  # Default to 5
+  maxCategoryToShow: 10
+  
+  katex: true
+
+  # Show your socail information with icon on index bio with `_index.md` content.
+  socialOptions:
+    dev-to:
+    email: admin@bysniper.win
+    facebook:
+    github: https://github.com/print248
+    instagram:
+    linkedin:
+    medium:
+    stack-overflow:
+    steam:
+    telegram:
+    twitter:
+    twitch:
+    whatsapp:
+    
+  
+  # Comments settings
+  comments:
+    enabled: true
+    provider: giscus
+
+    giscus:
+      repo: print248/print248.github.io
+      id: R_kgDOIYMnHQ
+      category:
+        name: Comments
+        id: DIC_kwDOIYMnHc4CTloi
+
+menu:
+  header:
+#    - name: Articles
+#      url: "/articles/"
+    - name: About
+      url: "/about"
+  footer:
+    - name: RSS
+      url: "/index.xml"
+
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
