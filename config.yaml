@@ -4,7 +4,7 @@ title: "blog of bysniper"
 theme: "hugo-tania"
 paginate: 6
 
-disqusShortname: https-hugo-tania-netlify-app
+disqusShortname: bysniper.win
 
 params:
   # Emoji will show before the blog title on site navbar.
