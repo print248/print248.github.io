@@ -1,6 +1,6 @@
 baseurl: "https://bysniper.win"
 languageCode: "en-us"
-title: "blog of bysniper"
+title: "bysniper's blog"
 theme: "hugo-tania"
 paginate: 6
 
@@ -41,7 +41,7 @@ params:
     email: admin@bysniper.win
     facebook:
     github: https://github.com/print248
-    instagram:
+    instagram: https://www.instagram.com/zhatianzenganiu/
     linkedin:
     medium:
     stack-overflow:
