@@ -1,7 +1,7 @@
 ---
 title: 凌晨四点的洛杉矶
 date: 2021-12-20
-tag: 篮球
+tags: ["basketball"]
 categories: life
 ---
 
