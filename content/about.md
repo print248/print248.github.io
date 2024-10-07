@@ -10,4 +10,4 @@ author = "bysniper"
 
 微信公众号：bigjian_invest
 
-<img src=".\static\images\bigjian_invest.jpg">
+<img src=".\bigjian_invest.jpg">
