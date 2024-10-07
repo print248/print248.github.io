@@ -6,7 +6,8 @@ aliases = ["about-us","about-hugo","contact"]
 author = "bysniper"
 +++
 
-90后、佛道双修、退役码农、篮球爱好者 ... ...
+90 后、佛系青年、退役码农、大 A 股民 ... ...
 
+微信公众号：bigjian_invest
 
-
+<img src=".\images\bigjian_invest.jpg">
