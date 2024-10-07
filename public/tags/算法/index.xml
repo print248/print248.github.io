@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>算法 on bysniper</title>
+    <link>https://bysniper.win/tags/%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 算法 on bysniper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/tags/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>时间复杂度分析</title>
+      <link>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</guid>
+      <description>学习数据结构和算法可以有效提高我们代码的执行效率，那么怎么衡量代码的执行效率呢，这就涉及到数据结构和算法课程中重要的基础内容——复杂度分析。复杂度分析又有时间复杂度分析和空间复杂度分析，通俗地讲，就是看执行算法消耗了多少时间和空间，今天就来学习下时间复杂度分析。 大 O 表示法 这里有段非常简单的代码，求 1,2,3&amp;hellip;n</description>
+    </item>
+    
+  </channel>
+</rss>

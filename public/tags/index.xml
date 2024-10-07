@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Personal Site of bysniper</title>
+    <title>Tags on bysniper</title>
     <link>https://bysniper.win/tags/</link>
-    <description>Recent content in Tags on Personal Site of bysniper</description>
+    <description>Recent content in Tags on bysniper</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>&amp;copy; Copyright 2021, bysniper</copyright><atom:link href="https://bysniper.win/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>index</title>
-      <link>https://bysniper.win/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>牛市</title>
+      <link>https://bysniper.win/tags/%E7%89%9B%E5%B8%82/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://bysniper.win/tags/index/</guid>
+      <guid>https://bysniper.win/tags/%E7%89%9B%E5%B8%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>算法</title>
+      <link>https://bysniper.win/tags/%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/tags/%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>篮球</title>
+      <link>https://bysniper.win/tags/%E7%AF%AE%E7%90%83/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/tags/%E7%AF%AE%E7%90%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>经济学</title>
+      <link>https://bysniper.win/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</guid>
       <description></description>
     </item>
     
