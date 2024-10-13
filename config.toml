@@ -60,6 +60,10 @@ pygmentscodefencesguesssyntax = true
   placeholder = " "
   visitor = true
 
+[services]
+  [services.rss]
+    limit = 12
+
 # Your socail's url
 # 社交地址配置
 [social]
