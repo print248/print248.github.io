@@ -1,100 +1,590 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bysniper</title>
     <link>https://bysniper.win/</link>
-    <description>Recent content on bysniper</description>
-    <generator>Hugo -- gohugo.io</generator>
+
+    <description>记录投资，学习，生活……</description>
+	<generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>中字头大爆发，慢牛有望</title>
-      <link>https://bysniper.win/posts/20241010/</link>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/20241010/</guid>
-      <description>市场回顾与复盘 今日上证指数上涨1.32%，沪深 300 上涨1.06%，创业板上涨 0.05%，转债等权上涨0.13%。 我的组合下跌1.59%，严重跑输各大指数，年内收益还剩 12.71% 今天一开盘，就显示出多空力量对抗的纠结，指数是一会儿暴跌，一会儿暴涨，反复震荡，来来去去。还记得我更博的第一篇文章就复盘历史，设想到牛</description>
+    <title>技术性调整？</title>
+    <link>https://bysniper.win/posts/20241102/</link>
+    <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241102/</guid>
+    <description>
+        &lt;h2 id=&#34;市场回顾&#34;&gt;市场回顾&lt;/h2&gt;
+&lt;p&gt;连续上涨两周后，大盘终于在本周迎来了调整，尤其是前期热炒、连续涨停的常山北明、润和软件、双成药业、城地香江等等高位股在周五集体大跌，10cm、20cm 跌停的不在少数。上周提到的北交所也是连续多天回撤，在周五北证 50 指数更是暴跌了 9 个点之多，各路资金有点夺路狂奔、拼命出逃的迹象。&lt;/p&gt;
+&lt;p&gt;这周大 A 的三季度财报终于披露完毕了，从指数视角来看，营收和利润都在加速下行。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;指数&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2024Q3 营收%&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2024Q1-Q3 营收同比%&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2024Q3 净利润同比%&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2024Q1-Q3 净利润同比%&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;沪深 300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.28&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.22&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10.27&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.86&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;中证 500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-4.18&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-2.95&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-15.21&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-10.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;中证 1000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-5.47&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-2.7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-7.25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-9.66&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;沪深 300 看起来数据还可以，我估计主要是金融股的贡献。&lt;/p&gt;
+&lt;p&gt;基本面的扭转短期看是指望不上了，就看下周人大常委会公布的刺激规模了。问题是经过别有用心的外媒反复炒作，大家的阈值已经被提高了，感觉至少 12 万亿以上市场才会满意。&lt;/p&gt;
+&lt;h2 id=&#34;交易回顾&#34;&gt;交易回顾&lt;/h2&gt;
+&lt;p&gt;本周我的持仓下跌&lt;font color=green&gt;1.16%&lt;/font&gt;，年内收益 &lt;font color=red&gt;16.07%&lt;/font&gt;。&lt;/p&gt;
+&lt;p&gt;这周收益跑输各大指数，一方面因为我的持仓以转债为主，跟小盘股高度相关，真是蛋疼，上涨的时候不跟涨，下跌倒是想起来跟了。另一方面我持有的 TLT 最近也是一直在阴跌，本来指望的东边不亮西边亮是一点没看到光。&lt;/p&gt;
+&lt;p&gt;这周转债基本没有操作，不过没有忍住追热点的冲动，拿出了 10%的仓位买了一些有&amp;quot;并购重组&amp;quot;概念的小盘股，好在选股时都是买的低换手，还没有涨起来的票，经过这波回撤后，盈亏基本还是在持平状态。现在“并购重组”的问题是，来蹭概念的越来越多，资金可能很快就不够了，就算同样是从破落民企转变成央企控股，也难以有之前城地香江的高度了。下个星期开始我得考虑出掉这些概念股了。&lt;/p&gt;
+&lt;p&gt;另外美股方面，TLT 长期阴跌，我终于是忍不住了（耐心还需要修炼），卖掉了一小部分仓位，建仓了两只美股，分别是好时（HSY）和芝加哥商品交易所（CME）。&lt;/p&gt;
+&lt;h3 id=&#34;好时hsy&#34;&gt;好时（HSY）&lt;/h3&gt;
+&lt;p&gt;好时公司是北美糖果行业龙头制造商之一，在美国占有 36%的巧克力市场份额，旗下有 100 多个品牌，产品热销全球 80 余国家。&lt;/p&gt;
+&lt;p&gt;好时公司股票历史表现优异，有持续 90 年分红的历史，是美股市场最抗通胀的股票之一。&lt;/p&gt;
+&lt;p&gt;但是好时从 2023 年春季到现在，下跌了 34%之多。猜测主要原因有以下几点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;近年来几款成功的减肥药效果显著，持续供不应求，市场担心减肥药抑制食欲的功效会让消费者零食吃的越来越少，对巧克力等糖果行业形成严重打击。&lt;/li&gt;
+&lt;li&gt;最近两年，可可豆的主要产地西非，因为极端天气频发，可可豆产量锐减，价格飙涨了 180%，导致巧克力制造商成本急剧上升。&lt;/li&gt;
+&lt;li&gt;油管最大网红 Mr.Beast 的巧克力品牌 Feastables 迅速发展，市场担心会冲击好时的市场份额。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;细细想来，这些问题都不大，首先从常识来讲减肥药再牛也不可能灭绝人来爱吃甜食的天性。其次可可豆涨价对好时这种历史悠久，穿越多次周期，品牌美誉度高的公司来说就是小菜一碟，光从历史来看，可可豆在 2001-2003 年涨了 131%，好时的股价当时跌了 19%，但之后的一年，就反弹了 20%，2008 年到 2010 年可可豆涨了 70%，好时股价跌了 13%，但是随后下一年就又涨了 36%，人们总是因为成本上涨的短期风险而卖出，却忽略了好时是少数的可以转嫁成本至消费者的优秀公司的事实。最后，好时的营收是 Feastables 的 55 倍，这种依赖少数真爱粉的品牌很难保持持续的高速增长，但是好时这种多品牌，成熟的大公司有完善的生产线和分发网络，可以极短时间研发、制造、上线新产品，这些沉淀下来的底蕴都不是新兴的小品牌比拟的。&lt;/p&gt;
+&lt;p&gt;现在，好时的估值（PE）已接近 10 年新低，对于以这样的价格买入这样优质的百年老店，我是没有什么心理负担的，更何况还只是一点点仓位。&lt;/p&gt;
+&lt;h3 id=&#34;芝加哥商品交易所cme&#34;&gt;芝加哥商品交易所（CME）&lt;/h3&gt;
+&lt;p&gt;交易所这种生意我想全世界每个生意人都想拥有，坐地收钱，寡头垄断，几乎不受经济影响，永续的印钞机。&lt;/p&gt;
+&lt;p&gt;芝商所主要提供基于利率、股票指数、外汇、能源、农产品和金属的所有主要资产类别的全球基准产品，是全球最重要的衍生品交易所，拥有许多交易最活跃的期货合约。&lt;/p&gt;
+&lt;p&gt;相比美帝其他交易所，芝商所市盈率最低，股息率最高。另外与其他交易所不同，卖数据只占它收入里很小的一部分，主要还是靠交易量赚钱，反过来说就是将来还可以靠卖数据挣钱，促进成长。&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>砖家说不要怕，后续还有第二波</title>
-      <link>https://bysniper.win/posts/20241009/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/20241009/</guid>
-      <description>市场回顾与复盘 今日上证指数下跌6.62%，沪深 300 下跌7.05%，创业板下跌 10.59%，转债等权下跌4.31%。 我的组合下跌2.46%，稍稍跑赢转债等权指数。 没想到昨天的担忧一语成谶，今天大 A 大幅度低开，一下子把牛市的情绪冲击的摇摇欲坠。 指数在开盘后就迅速下跌，几分钟过后多方带起了一波迅速反弹，但好</description>
+    <title>保守者的悲哀</title>
+    <link>https://bysniper.win/posts/20241026/</link>
+    <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241026/</guid>
+    <description>
+        &lt;p&gt;最近去打篮球，碰到了一个许久未见、热爱炒股的球友，便和他交流一番，令我没想到的是，他这一波行情玩东方财富、天风证券、润和软件这些热门股，竟然已经实现了翻倍收益，说是已经在考虑辞去工作，全职炒股啦。真是让人颇为感慨，牛市，果然是冒险者的乐园，作为一名保守型韭菜的我，属实是有点羡慕了。&lt;/p&gt;
+&lt;h2 id=&#34;市场回顾&#34;&gt;市场回顾&lt;/h2&gt;
+&lt;p&gt;据传芒格临终时，亲朋围在床边，有人问：未来的投资方向在哪？&lt;br&gt;
+芒格虚弱地说：毕加索……&lt;br&gt;
+一人问：是让我们收藏毕加索的作品吗？&lt;br&gt;
+芒格摇摇头停止了呼吸。众人大惑不解。&lt;br&gt;
+旁边的中国女佣含泪说出三个字：北交所。&lt;br&gt;
+众人这才恍然大悟…&lt;/p&gt;
+&lt;p&gt;看到上文的段子，就知道这周最火的就属北交所了，继连续大涨后，艾融软件成为了这次 924 行情以来的第一支 10 倍股，风风光光地带着北交所搞了个大新闻，不过所谓头条效应，大热必死，第二天果然很快传来场外北证 50 基金限额的消息，没了接盘资金的北交所果断大跌予以回应。&lt;/p&gt;
+&lt;p&gt;其实这次北交所的火爆上涨，仔细一想也在情理之中，一是因为 50 万 2 年投资经验的门槛限制，大多数散户买不了，另外北交所大多数市值都很小，机构资金也看不上，流动性的缺乏导致了北证的系统性低估；二是北交所股票其实大多数都是盈利的，相比有同样高门槛限制但是不赚钱、估值如梦的科创板，质量高的不止一筹；三是科创板、创业板的涨跌停限制是 20%，但北交所是 30%，在当前快速轮动，恨不得一天就把韭菜割完的市场环境下，游资大举进入也就不足为奇了。&lt;/p&gt;
+&lt;p&gt;这周央行发布了最新的 LPR 利率，5 年期降到了 3.6%，银行也于 10 月 25 日正式调整了存量房贷利率，具体调整情况如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.bysniper.win/lpr1020.jpg&#34; alt=&#34;调整情况&#34;&gt;&lt;/p&gt;
+&lt;p&gt;看了下我应该属于表格中的第一种情况，调整到了 3.9%，下个月开始就可以少还 10 块钱了，又有资金可以加仓了，赢麻了！&lt;/p&gt;
+&lt;h2 id=&#34;交易回顾&#34;&gt;交易回顾&lt;/h2&gt;
+&lt;p&gt;本周上证指数上涨&lt;font color=red&gt;1.17%&lt;/font&gt;，我的持仓上涨&lt;font color=red&gt;3.52%&lt;/font&gt;，年内收益 &lt;font color=red&gt;17.45%&lt;/font&gt;。&lt;/p&gt;
+&lt;p&gt;这周收益能大幅跑赢上证指数，主要得益于近期小盘股相对强势，带动了我的转债上涨。值得注意的是同花顺微盘股指数和 ST 板块都连续 5 天上涨，周内分别上涨了惊人的&lt;font color=red&gt;9.03%&lt;/font&gt;和&lt;font color=red&gt;10.53%&lt;/font&gt;，&lt;strong&gt;可能大 A 炒小炒差的传统正在回归&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这周主要的买入有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;城地香江：周二观察到城地转债折价较高有套利空间，而且正股城地香江并购重组、困境反转、实控人变更为国资委等诸多 buff 加身，关键是前期连续多个涨停后，龙虎榜数据显示游资大佬方新侠等人还在买入，盲猜大佬们格局很大，值得跟风玩一下，不得不说买入后每天涨停的感觉确实爽，不怪大家都喜欢打板呢，就是我胆子终归还是太小，买的太少，卖的太早，每天涨停价卖一部分，卖到周五收盘只剩一手了，就用这最后的一手跟大佬一起格局吧！&lt;/li&gt;
+&lt;li&gt;首华转债、中能转债：目前首华 YTM 较高，中能溢价较低且 YTM 为正，此外两者都是市值小、持股分散、盈利能力弱、负债率较高的公司，但是，它们同时又满足交易所《上市公司重大资产重组审核规则》最新要求的财务指标，理论上具有壳资源价值，在目前“&lt;strong&gt;并购重组&lt;/strong&gt;”很有可能成为市场主线的情况下也许会存在机会。不过转债的优势就在于哪怕正股没有行情，有债券价值的安全垫，也大可以放心持有，这不正完美契合了价值投资中安全边际的核心理念吗！&lt;/li&gt;
+&lt;/ol&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>大A你一定要顶住，我是真的慌了</title>
-      <link>https://bysniper.win/posts/20241008/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/20241008/</guid>
-      <description>市场回顾与复盘 今日上证指数上涨 4.39%，沪深 300 上涨 5.93%，创业板上涨 17.25%，转债等权上涨 3.52%。 我的组合上涨 4.83%，勉强跑赢上证指数。 心心念念的赌场终于开门了，没想到开盘即巅峰，各大指数接近涨停开盘，旋即高开低走，半个小时就回撤了 5 个点左右，盘中最低回撤更是接近 9 个点，得亏后续买</description>
+    <title>难道还有第二波？</title>
+    <link>https://bysniper.win/posts/20241019/</link>
+    <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241019/</guid>
+    <description>
+        &lt;h2 id=&#34;市场回顾&#34;&gt;市场回顾&lt;/h2&gt;
+&lt;p&gt;节后归来的第二个交易周，终于在周五的强劲上涨中落下了帷幕，恍惚之间有种牛又回来的感觉，就是从 14 点 40 开始，大盘又开始了习惯性的跳水，属实是美中不足，让人担忧。&lt;/p&gt;
+&lt;p&gt;本周的走势总体上延续了 10 月 8 号开盘触顶后的下跌趋势，具体到单个交易日，基本都是涨一天跌一天，来回震荡，而且日内波动不小，反映了资金的分歧。周五的上涨主要得益于央行潘行长对之前刺激政策具体落地的喊话，以及下午大领导在安徽科学城考察时的一句，“人生能有几回搏”，直接带动了科技股，尤其是“博字辈”，最牛掰的一博科技直接来了个 90 度 20cm 涨停，无敌，meme 股永不过时。&lt;/p&gt;
+&lt;p&gt;可以肯定的是，随着时间的推移，情绪的冷却，疯牛行情肯定不会出现了，但前期获利和节后进入的资金也不会这么快就离场，每天还是有很大的成交量，这也是为什么周五一有利好消息，市场形成合力，陡然就雄起了一天。像是博字辈概念股、前几天网络造谣四川大拆迁产生的西部大开发概念股等等，此起彼伏的涨停。现在行情分化的背景下，大家都在焦急的寻找主线，寻找交易机会啊！&lt;/p&gt;
+&lt;p&gt;本周表现最强势的要数华为概念了，我细看了下，居然有华为欧拉、华为海思、华为鲲鹏、华为昇腾、鸿蒙等多个子概念，每个子概念都有几十上百家，涨的还都很好，不服不行啊，华为居然撑起了 A 股半边天，不愧民族之光。这不禁让我想起了我心中永远的痛，曾经的老东家——润和软件，那时候觉得这就一垃圾人力外包企业，居然还是个上市公司，真是滑稽，没想到最后滑稽的人是我……&lt;/p&gt;
+&lt;h2 id=&#34;交易回顾&#34;&gt;交易回顾&lt;/h2&gt;
+&lt;p&gt;本周上证指数上涨&lt;font color=red&gt;1.36%&lt;/font&gt;，我的组合上涨&lt;font color=red&gt;2.55%&lt;/font&gt;，年内收益 13.46%。&lt;/p&gt;
+&lt;p&gt;这周大多数时间都在躺平卧倒不动，主要的操作有加仓了鹰 19 转债，建仓了文科转债、百川转 2 等。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;鹰 19 转债:得益于山鹰国际这个资本市场老玩家的果断出手，在牛市骤降的紧要关头下修了鹰 18 的转股价，使得鹰 18 在短短几天内大量转股，余额从 20 多亿降到了现在的不足 10 亿，再加上公司终于敲定 10.97 亿出售北欧纸业，兑付鹰 18 不能说十拿九稳，至少也是胸有成竹。那么鹰 18 解决了，明年到期，YTM10 个点的鹰 19 转，还有啥理由不上仓位使劲干呢。&lt;/li&gt;
+&lt;li&gt;文科转债：建仓文科转债主要是源于财政部帮助地方政府化债的逻辑，像文科这种园林企业，主要都是承接的地方政府的园林生意，地方债现在有了背后大佬的托底，相信文科会走出困境，不至于像之前的岭南一样违约（提到岭南心中又是一痛，当初怎么就没有买几张等大佬收购呢，我的信仰还是不够坚定）。&lt;/li&gt;
+&lt;li&gt;百川转 2：TMA 产品价格居高不下，正丹第三季度业绩爆涨，百川转 2 目前 YTM3.92%，性价比颇高。&lt;/li&gt;
+&lt;/ol&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>牛市已来，赶紧上车？</title>
-      <link>https://bysniper.win/posts/bull2024/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/bull2024/</guid>
-      <description>国庆 7 天长假终于快要结束了，相信每一个大 A 股（jiu）民(cai)都和我一样，从来没有如此殷切期盼过假期早点结束。终于，明天赌场要开门了，不知道排队开户的散户，跑步进场的外资们弹药是否就位，是否已经做好大干一场的准备。作为一名入市 3 年从来没有经历过牛市的小散户，着实是被节前几日热情高涨的市场氛围震惊</description>
+    <title>财政思路转变，利好</title>
+    <link>https://bysniper.win/posts/20241013/</link>
+    <pubDate>Sun, 13 Oct 2024 20:26:00 +0800</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241013/</guid>
+    <description>
+        &lt;p&gt;万众期待的财政部新闻发布会，终于在本周六正式召开了，可惜的是，针对股民朋友们关心的刺激规模具体有多大的问题，并没有得到明确的答案，只是告诉你预期会很大，具体规模得等司法程序走完，人大开完会再说，这正是玩的一手千呼万唤始出来，犹抱琵琶半遮面，隔着一层朦胧的面纱，挠得你心痒痒。&lt;/p&gt;
+&lt;p&gt;抛开对投资者的预期管理不谈，此次发布会总体而言并未着重强调股市，主要聚焦于全国整体经济，旨在解决一些基本面危机。简而言之，&lt;strong&gt;中央财政仍有充足的加杠杆空间，将为地方政府债务危机、房价下跌和银行坏账兜底，同时发放补贴以刺激居民消费，并着力解决大学生就业等问题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;对股市走势而言，个人判断短期内影响可能不大，但长期来看利好因素较多。这次政策背后的一大亮点在于财政思路的转变——从以往&amp;quot;严控 3%赤字率&amp;quot;到现在的&amp;quot;中央还有较大的举债空间和赤字提升空间&amp;quot;，为未来财政扩张开辟了道路。值得注意的是，2023 年我国债务 GDP 比仅为 24%，远低于美国的 110%，更不用说日本高达 254%的水平。&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;另外，参考大资金的态度，周六新闻发布会当天，银行间债券市场是在交易的，10 年期国债活跃券收益率最终收涨 0.15 个 bp，对应债券价格收跌 0.07%，30 年期国债活跃券收益率最终收涨 0.5 个 bp，对应债券价格收跌 0.2%，说明当天债市给出的隐含定价是中性偏利好，不过程度并未大超预期。&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>时间复杂度分析</title>
-      <link>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</guid>
-      <description>学习数据结构和算法可以有效提高我们代码的执行效率，那么怎么衡量代码的执行效率呢，这就涉及到数据结构和算法课程中重要的基础内容——复杂度分析。复杂度分析又有时间复杂度分析和空间复杂度分析，通俗地讲，就是看执行算法消耗了多少时间和空间，今天就来学习下时间复杂度分析。 大 O 表示法 这里有段非常简单的代码，求 1,2,3&amp;hellip;n</description>
+    <title>让hugo博客支持RSS全文输出</title>
+    <link>https://bysniper.win/posts/hugorss/</link>
+    <pubDate>Sun, 13 Oct 2024 14:26:00 +0800</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/hugorss/</guid>
+    <description>
+        &lt;p&gt;早上醒来，朋友发来了一条消息，分享了一枚 Follow 邀请码给我，很惊喜，立马上手体验了下。相较于传统的 RSS 阅读器，Follow 不仅界面更加简洁清爽，还巧妙地融合了社交和经济生态属性，使用体验令人耳目一新。尤其是在订阅自己的博客后，发现居然有用户在 Follow 上阅读我的博客，非常开心，突然就有了继续更新博客的动力。&lt;/p&gt;
+&lt;p&gt;然而，美中不足的是，我的博客 RSS 输出并未包含全文内容。在 Follow 中阅读时，必须多点进一步，通过内置浏览器缓慢地重新加载才能查看全文，麻烦低效，一点也不优雅。&lt;/p&gt;
+&lt;p&gt;作为使用 Hugo 搭建的博客，默认支持 RSS 生成，但是文章内容却不能全文输出。在翻阅 Hugo 默认的 rss.xml 文件后，我发现了问题：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-xml&#34; data-lang=&#34;xml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;item&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      //其他部分省略……
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;nt&#34;&gt;&amp;lt;description&amp;gt;&lt;/span&gt;{{ .Summary | transform.XMLEscape | safeHTML }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/description&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;/item&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;其 description 字段只显示了 Summary,我想这就是我的 rss 输出不能显示全文的原因，解决方法很简单，在 根目录的 layouts 文件夹下，新建一个 rss.xml 文件，就可以覆盖系统默认的 rss.xml 了，我的 rss.xml 全文如下，（直接复制即可）&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-xml&#34; data-lang=&#34;xml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{- $pages := where .Site.RegularPages &amp;#34;Type&amp;#34; &amp;#34;in&amp;#34; .Site.Params.mainSections -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{- $limit := .Site.Config.Services.RSS.Limit -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{- if ge $limit 1 -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{- $pages = $pages | first $limit -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{- end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;&amp;lt;rss&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;version=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;2.0&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;xmlns:atom=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;http://www.w3.org/2005/Atom&amp;#34;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;lt;channel&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;link&amp;gt;&lt;/span&gt;{{ .Permalink }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/link&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;description&amp;gt;&lt;/span&gt;feedId:66124864289300480+userId:60155982460231680&lt;span class=&#34;nt&#34;&gt;&amp;lt;/description&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;nt&#34;&gt;&amp;lt;generator&amp;gt;&lt;/span&gt;Hugo -- gohugo.io&lt;span class=&#34;nt&#34;&gt;&amp;lt;/generator&amp;gt;&lt;/span&gt;{{ with .Site.LanguageCode }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;language&amp;gt;&lt;/span&gt;{{.}}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/language&amp;gt;&lt;/span&gt;{{end}}{{ with .Site.Author.email }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;managingEditor&amp;gt;&lt;/span&gt;{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/managingEditor&amp;gt;&lt;/span&gt;{{end}}{{ with .Site.Author.email }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;webMaster&amp;gt;&lt;/span&gt;{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/webMaster&amp;gt;&lt;/span&gt;{{end}}{{ with .Site.Copyright }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;copyright&amp;gt;&lt;/span&gt;{{.}}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/copyright&amp;gt;&lt;/span&gt;{{end}}{{ if not .Date.IsZero }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;lastBuildDate&amp;gt;&lt;/span&gt;{{ .Date.Format &amp;#34;Mon, 02 Jan 2006 15:04:05 -0700&amp;#34; | safeHTML }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/lastBuildDate&amp;gt;&lt;/span&gt;{{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{- with .OutputFormats.Get &amp;#34;RSS&amp;#34; -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      {{ printf &amp;#34;&lt;span class=&#34;nt&#34;&gt;&amp;lt;atom:link&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;href=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;%q&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;rel=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;\&amp;#34;self\&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;type=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;%q&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;/&amp;gt;&lt;/span&gt;&amp;#34; .Permalink .MediaType | safeHTML }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{- end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ range $pages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;item&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;{{ .Title }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;link&amp;gt;&lt;/span&gt;{{ .Permalink }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/link&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;pubDate&amp;gt;&lt;/span&gt;{{ .Date.Format &amp;#34;Mon, 02 Jan 2006 15:04:05 -0700&amp;#34; | safeHTML }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/pubDate&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ with .Params.author }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;author&amp;gt;&lt;/span&gt;{{.}}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/author&amp;gt;&lt;/span&gt;{{end}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;guid&amp;gt;&lt;/span&gt;{{ .Permalink }}&lt;span class=&#34;nt&#34;&gt;&amp;lt;/guid&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;description&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        {{ (replace .Content &amp;#34;&amp;#34; &amp;#34;&amp;#34;) | html }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;/description&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;lt;/item&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;lt;/channel&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;&amp;lt;/rss&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;不说了，我要忙着去给我的 miniflux 搬家了&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>凌晨四点的洛杉矶</title>
-      <link>https://bysniper.win/posts/mamba/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/mamba/</guid>
-      <description></description>
+    <title>缅A归位，未来可期</title>
+    <link>https://bysniper.win/posts/20241011/</link>
+    <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241011/</guid>
+    <description>
+        &lt;h2 id=&#34;市场回顾与复盘&#34;&gt;市场回顾与复盘&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;今日上证指数下跌&lt;font color=green&gt;2.55%&lt;/font&gt;，沪深 300 下跌&lt;font color=green&gt;2.77%&lt;/font&gt;，创业板下跌 &lt;font color=green&gt;5.06%&lt;/font&gt;，转债等权下跌&lt;font color=green&gt;1.7%&lt;/font&gt;。
+&lt;font color=red&gt;我的组合下跌&lt;font color=green&gt;1.83%&lt;/font&gt;，年内收益还剩 10.65%&lt;/font &gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;09:40 分，群友们的症状已经减轻，没人幻想着牛市了，群里少了很多吵闹声，逐渐安静了，仿佛大家看清了现实，已经开始继续谋生路。有的送外卖的捡起了早上扔下还热乎的盒饭、送快递的把三轮车从水沟里拉了起来、跑滴滴的喊刚骂完的杀价乘客回来、KTV 公主为刚扇的耳光道歉、做服务生刚出门又掉头回来把围裙系上，告诉老板刚才只是出去抽个烟，老板觉得他很踏实不磨洋工，抽个烟都这么快，拧螺丝的人马上把地上的扳手又捡了起来。没有人自暴自弃，相信不久群里依然会恢复往日的热闹。&lt;/p&gt;
+&lt;p&gt;那个大家熟悉的缅 A 又回来了，全天低开低走的行情，坚持不了一刻钟的买方，犹如上了年纪的中年男人，外强中干，纸糊的一样，稍微给它上点强度，就是一泻千里，溃不成军。&lt;/p&gt;
+&lt;p&gt;按今天这走势，估计周末的财政发布会是没啥值得期待的了，下周还很可能受政策不及预期影响，继续大跌，而且未来的很长一段时间可能都是无聊的行情。&lt;/p&gt;
+&lt;p&gt;好消息是明天不用跌了……&lt;/p&gt;
+&lt;h2 id=&#34;持仓分析与交易计划&#34;&gt;持仓分析与交易计划&lt;/h2&gt;
+&lt;p&gt;今天我的组合下跌了 1.83%，跑赢了股指，没有跑赢转债等权，差强人意。&lt;/p&gt;
+&lt;p&gt;看着自己手中的这些跌的稀里哗啦的正 YTM 可转债，我是欲哭无泪，说好的涨跌不对称呢，说好的向下有底向上无限呢，昔日的小甜甜真就是那牛夫人。&lt;/p&gt;
+&lt;p&gt;今天盘中打算卖掉前几日申购的创业板等 LOF，我还想看下折溢价情况，没准我还可以赎回，少亏点呢，结果一看傻了眼，几只 LOF 的折价居然恰巧都在 1.5%左右，正好就约等于赎回费用，无语了，市场大爷怎么这时候你变得这么有效了，真是一点便宜不给我留啊。&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>经济机器是如何运行的</title>
-      <link>https://bysniper.win/posts/%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84/</link>
-      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84/</guid>
-      <description></description>
+    <title>中字头大爆发，慢牛有望</title>
+    <link>https://bysniper.win/posts/20241010/</link>
+    <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241010/</guid>
+    <description>
+        &lt;h2 id=&#34;市场回顾与复盘&#34;&gt;市场回顾与复盘&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;今日上证指数上涨&lt;font color=red&gt;1.32%&lt;/font&gt;，沪深 300 上涨&lt;font color=red&gt;1.06%&lt;/font&gt;，创业板上涨 &lt;font color=red&gt;0.05%&lt;/font&gt;，转债等权上涨&lt;font color=red&gt;0.13%&lt;/font&gt;。
+&lt;font color=red&gt;我的组合下跌&lt;font color=green&gt;1.59%&lt;/font&gt;，严重跑输各大指数，年内收益还剩 12.71%&lt;/font &gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今天一开盘，就显示出多空力量对抗的纠结，指数是一会儿暴跌，一会儿暴涨，反复震荡，来来去去。还记得我更博的第一篇文章就复盘历史，设想到牛市进入第二个阶段，多空力量充分换手，体现在走势上会是宽幅震荡，但谁能想到连日内居然也是这么一个走势啊，真是让我们这些新来的巴菲特们急的是团团转，是买也不是，卖也不是。&lt;/p&gt;
+&lt;p&gt;今天这样反复震荡，应该是洗掉了不少不坚定筹码，大盘总体上先抑、后扬、后回落。剖析板块，我们可以发现，中字头开始了大爆发，中国交建、中国铁建、中国中铁等多达 20 只左右中字头涨停。中字头的爆发说明疯牛基本已结束，资金正在回归理性。中字头估值低，很多还破净，此外，今天一早央行就宣布了首期 5000 亿的互换便利（SFISF）正式启动，正好回购、增持破净央企，没有比这更标准的价值投资了。&lt;/p&gt;
+&lt;p&gt;经过这两天的下跌、震荡，我相信大家浮躁的心都按捺下来了不少，变成传说中的耐心资本了，再配合后面政策精准调控、有节奏的释放，相信慢牛也不是不可期。&lt;/p&gt;
+&lt;p&gt;还有一则好消息：今天中新网刊登了清华大学中国发展规划研究院常务副院长董煜的文章，其中他提到&lt;font color=green&gt;“增量一定会包括新的投入，&lt;font color=red&gt;“X 万亿”&lt;/font&gt;也一定会有，只是有的可能还需要走法定程序，大家要稍微保持点耐心，不要轻易被带了节奏”&lt;/font&gt;&lt;/p&gt;
+&lt;h2 id=&#34;持仓分析与交易计划&#34;&gt;持仓分析与交易计划&lt;/h2&gt;
+&lt;p&gt;今天我的组合下跌了 1.59%，被各大指数暴打，虽然昨天已有预期，但看到那绿油油的数字还是很不开心，不过值得一提的是，导致我今天大亏的 LOF 基金，其中包括创业板 LOF、恒生 LOF、中概 LOF、国企改革 LOF、金融科技 LOF、并购重组 LOF 等，这些我都没有卖出，没错，我变耐心了。&lt;/p&gt;
+&lt;p&gt;我这次套利的 7 只基金，无一幸免，尽皆亏损。比这更惨的是，我套利折价转债的策略也失败了，就第一天挣了点，后面两天都亏没了，真的是无语了，应该第一天就收手的，还是被贪婪情绪主导了，这牛市来的，真感觉还不如不来。通过这几天我也深刻地体会到，牛市真就是一个好看的毒蘑菇，带刺的玫瑰，引诱着渴望财富的年轻人。&lt;/p&gt;
+&lt;p&gt;也许，在牛市里，应该比其他时候更要坚持保守，坚守能力圈……&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://bysniper.win/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/archives/</guid>
-      <description></description>
+    <title>砖家说不要怕，后续还有第二波</title>
+    <link>https://bysniper.win/posts/20241009/</link>
+    <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241009/</guid>
+    <description>
+        &lt;h2 id=&#34;市场回顾与复盘&#34;&gt;市场回顾与复盘&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;今日上证指数下跌&lt;font color=green&gt;6.62%&lt;/font&gt;，沪深 300 下跌&lt;font color=green&gt;7.05%&lt;/font&gt;，创业板下跌 &lt;font color=green&gt;10.59%&lt;/font&gt;，转债等权下跌&lt;font color=green&gt;4.31%&lt;/font&gt;。
+&lt;font color=red&gt;我的组合下跌&lt;font color=green&gt;2.46%&lt;/font&gt;，稍稍跑赢转债等权指数。&lt;/font &gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没想到昨天的担忧一语成谶，今天大 A 大幅度低开，一下子把牛市的情绪冲击的摇摇欲坠。&lt;/p&gt;
+&lt;p&gt;指数在开盘后就迅速下跌，几分钟过后多方带起了一波迅速反弹，但好景不长，不到半小时就被汹涌的卖盘淹没，被一路碾压至上午收盘。下午开盘，多方又一次拉涨，可惜还是没能敌过空军，在 13 点 40 后大盘直线跳水，再无反击之力。&lt;/p&gt;
+&lt;p&gt;今天是这波行情以来的第一次收跌，如果是真牛，牛市多暴跌很正常，如果是假牛，那就是转折点了。&lt;/p&gt;
+&lt;p&gt;关于后续行情怎么走，不妨先看看砖家怎么说，今天新闻头条里的砖家称：&lt;font color=green&gt;A 股调整已经到位，前期获利盘落袋为安，本轮行情的逻辑没有变,后续还有一系列增量政策，经过本次调整后，有望迎来第二波上涨&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;在我而言，以一名入市经验还不算丰富的韭菜视角来看，我也不相信行情会就这样草草结束。此外，我有以下几点看好后续行情的理由和大家分享：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在现如今通缩笼罩的阴霾下，央行为了打破负向循环，只能扩表大放水，现如今上面已经不再提精准滴灌，大水漫灌的猛药几乎是名牌，这多出来的资金最终流向还是要么房市，要么股市&lt;/li&gt;
+&lt;li&gt;打造一场牛市，非常有利于地方政府和产业资本化解债务。就说前段时间转债无力兑付，最终退市的广汇汽车，倘若能坚持到现在，债务危机可能就轻松消弭于无形了&lt;/li&gt;
+&lt;li&gt;最后，今天的暴跌本质上还是源于对财政政策的不确定性，经过昨天 FGW 那么一折腾后，大家都怂了。好消息是财政部新闻发布会将于 10 月 12 号召开，看这个介绍“加大财政政策逆周期调节力度……”这个&lt;font color=red&gt;逆&lt;/font&gt;字不简单，再看看这个日期&lt;font color=red&gt;周六&lt;/font&gt;更不简单&lt;/li&gt;
+&lt;li&gt;最最后，四川省政府昨日晚间发布的党组（扩大）会议新闻稿有提及，&lt;strong&gt;对国家即将出台的更大规模超长期特别国债、提前下达明年中央预算内投资计划等政策，要强化项目包装储备，做深做实前期工作，努力争取更多份额更大支持&lt;/strong&gt;，貌似提前预告了周六的力度不会小&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.bysniper.win/sc1009.jpg&#34; alt=&#34;四川预告&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;持仓分析与交易计划&#34;&gt;持仓分析与交易计划&lt;/h2&gt;
+&lt;p&gt;今天我的组合下跌了 2.46%，基本跑赢了所有指数，不过这是理所当然的，一方面是因为我持仓分散（手中还有 17%的美债持仓），另外还有个主要原因是我昨天申购的 LOF 基金还没有到账，没有计算进收益，这大概也占了我 23%的仓位，所以我能在下跌中跑赢指数也就不足为奇了。&lt;/p&gt;
+&lt;p&gt;正如我昨天预料的一样，我套利 LOF 的做法实在是太傻了，今晚会陆续到账一部分，毫无悬念的巨额亏损，本以为能赚得稳稳的收益，没想到出师未捷身先死。&lt;/p&gt;
+&lt;p&gt;回顾我这次的重大失误，错还是错在低估了大盘调整的速度和烈度，也错误估计了这个市场上聪明资金的庞大程度，在进行这种风险套利时，一定要小心又小心，谨慎又谨慎，毕竟以我们小白散户获取信息的能力，机会到我们面前时，它十有八九就是个杀猪盘。&lt;/p&gt;
+&lt;p&gt;展望明天，依旧不是很乐观，经过今天这盆冷水下来，市场应该会理性的多。要牢记牛市从来不会是一帆风顺，也许未来还会有更多的急跌、震荡、洗盘，我自岿然不动，用时间换空间，静待风来！&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://bysniper.win/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/about/</guid>
-      <description>90 后、佛系青年、退役码农、大 A 股民 &amp;hellip; &amp;hellip; 微信公众号：bigjian_invest</description>
+    <title>大A你一定要顶住，我是真的慌了</title>
+    <link>https://bysniper.win/posts/20241008/</link>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/20241008/</guid>
+    <description>
+        &lt;h2 id=&#34;市场回顾与复盘&#34;&gt;市场回顾与复盘&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;今日上证指数上涨 4.39%，沪深 300 上涨 5.93%，创业板上涨 17.25%，转债等权上涨 3.52%。
+&lt;font color=red&gt;我的组合上涨 4.83%，勉强跑赢上证指数。&lt;/font &gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;心心念念的赌场终于开门了，没想到开盘即巅峰，各大指数接近涨停开盘，旋即高开低走，半个小时就回撤了 5 个点左右，盘中最低回撤更是接近 9 个点，得亏后续买方给力，走势最终又 V 了回来。希望没有太多的散户朋友在上午高点时买入。&lt;/p&gt;
+&lt;p&gt;都说牛市是散户亏损的重要原因，以前我还不相信，现在我是真的信了。牛市时巨大的波动会放大我们的情绪，镰刀们也会比以往更加迅速，割起韭菜来那叫一个快如闪电。&lt;/p&gt;
+&lt;p&gt;今天早盘我在 9 点 25 分之后看到如此暴力的开盘价后，思索一番还是觉得预期太满，遂在 9 点 28 分时决定以现价卖出手中的股票，没想到到 9 点半时，同花顺 APP 连接的券商服务居然崩溃了，券商自己的 APP 也完全进不去，可怜我的卖出操作只进行到了一半。&lt;code&gt;（朋友们以后要开户的话千万别只看佣金折扣）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;等到我能打开同花顺时，时间已经来到了 10 点钟左右，此时涨幅已经下杀了一半，我定睛一看 9 点半之前挂的单大多数都顺利成交了，这一高点套现部分仓位的操作使得我此时的账户收益稳稳超过了今天的大盘，于是自信满满的我随后不紧不慢地开启了我既定的交易计划，即卖出股票，换折价转债和申购溢价 LOF，大概各占我 25%的仓位。&lt;/p&gt;
+&lt;h2 id=&#34;持仓分析与计划&#34;&gt;持仓分析与计划&lt;/h2&gt;
+&lt;p&gt;上个交易日买入折价转债套利的策略今天顺利执行完成，并继续执行，希望明天能继续获利。此外，申购溢价套利的策略，今天来看，有极大可能成为重大失误，对我的组合形成巨大拖累。
+原因请看下图
+&lt;img src=&#34;https://images.bysniper.win/lof1008.jpg&#34; alt=&#34;LOF套利&#34;&gt;&lt;/p&gt;
+&lt;p&gt;What a fuck！！ 我才开始申购，你就已经开始跌停了，跟谁说理去。原因嘛，看场内新增份额那一栏，已经有了很多新增份额，说明不少聪明人两天之前就申购了，今天到账已经在疯狂甩卖了。真的是无语了，本以为我能吃到这波溢价的红利，没想到成了红利本身。&lt;/p&gt;
+&lt;p&gt;现在唯一的希望就是大盘(&lt;strong&gt;对应指数&lt;/strong&gt;)能撑到我基金到账的那一天了，但是未来两天真的能稳住吗？好像有点悬。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;首先，今天成交量达到了 3.4 万亿，又一次创了历史新高，但今天涨幅、走势和产生的情绪却明显不如上个交易日，俗话说一鼓作气再而衰三而竭，明后两天若想继续往上走，将需要更大的成交量来推动&lt;/li&gt;
+&lt;li&gt;其次，当今市场相比 2014 年上轮牛市，在玩家分布上，有了更多的机构资金，机构资金的特点就是更理性更看重基本面，更追求合理回报。我相信经过这几天的疯牛，很多机构可能已经完成了年度 KPI，现在正想着清仓出货呢&lt;/li&gt;
+&lt;li&gt;还有，今天 FGW 的新闻发布会不及预期，备受市场期待的财政刺激政策并没有出台，从这个方面来看，监管层显然有着降股市热度的意图&lt;/li&gt;
+&lt;li&gt;最后，美股 YINN 盘前已经跌了 25 个点了，这外资是有多不看好后续的行情？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;怎么办，这几点粗略分析下来，我是真的有点慌了，大 A 你可一定要顶住啊……&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>Articles</title>
-      <link>https://bysniper.win/articles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/articles/</guid>
-      <description></description>
+    <title>牛市已来，赶紧上车？</title>
+    <link>https://bysniper.win/posts/bull2024/</link>
+    <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/bull2024/</guid>
+    <description>
+        &lt;p&gt;国庆 7 天长假终于快要结束了，相信每一个大 A 股（jiu）民(cai)都和我一样，从来没有如此殷切期盼过假期早点结束。终于，明天赌场要开门了，不知道排队开户的散户，跑步进场的外资们弹药是否就位，是否已经做好大干一场的准备。作为一名入市 3 年从来没有经历过牛市的小散户，着实是被节前几日热情高涨的市场氛围震惊到，也许轰轰烈烈的超级牛市正在发生，身在其中的我们正在见证一场历史，因此我想以写文章的形式记录下这期间的所思所想所为，希望能借此机会，吸取经验和教训。&lt;/p&gt;
+&lt;h2 id=&#34;市场回顾&#34;&gt;市场回顾&lt;/h2&gt;
+&lt;p&gt;自 9 月 24 日央行、证监会、金管局三巨头联合发布了货币刺激政策后，大 A 这个本来已经拖到太平间门口的病人突然诈尸起来疯狂蹦迪，全 A 指数 5 天直接上涨了 26%，上证指数 5 个交易日分别上涨了 4.2%、1.2%、3.6%、2.9%、8.1%，成交量从本来的 5000 多亿暴涨到 9713 亿、11573 亿、11624 亿、14460 亿，最后一天更是来到创历史纪录的 25930 亿。经过 5 天的持续上涨，有老股民们表示自己亏损了三年，回本只要三天，从雪球、集思录到抖音、B 站、沉寂多年的理财账号纷纷复活，没有人说话的股票微信群一夜之间开启了信息轰炸，一眼望去，全是牛市呼声，断腿的残疾人、穿僧袍的大和尚到券商营业部紧急开户的照片广为流传。一直持有转债大饼和 QDII 的我眼睁睁看着自己的收益率从领先于大盘到快速的被大盘超过、碾压，终于在 9 月 30 号那一天市场更加疯狂上涨的关口，我没有忍住，卖掉了手中的纳指 ETF，建仓了恒生创新药、科创财通基金和部分折价转债。&lt;/p&gt;
+&lt;p&gt;这轮行情的启动是如此的突然和迅猛，不仅是广大投资者们没来得及反应，就是出台刺激政策的领导们应该也是始料未及，这记大招效果是如此的好，几乎出乎所有人的预计。为什么会如此呢？我想至少有以下几点原因：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大 A 持续下跌多年，成交量萎缩至 5000 亿级别，不坚定的持有者逐渐消亡殆尽&lt;/li&gt;
+&lt;li&gt;就业率、社会消费数据等关键经济数据始终没有好转，任由信心持续低迷下去，对于年度 GDP 保 5 的目标将造成极大挑战&lt;/li&gt;
+&lt;li&gt;房价多年萎靡，且未来人口减少的大趋势使得房产投资在未来将不再具有前景，预计这将给股市带来增量资金&lt;/li&gt;
+&lt;li&gt;央行创新型的资产互换工具并承诺还将加大额度的表态超出了市场预期，央行的货币互换工具和直接下场买股票只剩一步之遥，我想这也是华尔街大佬 David Tepper 敢于购买 everything related to China 的底气所在&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;未来行情预测&#34;&gt;未来行情预测&lt;/h2&gt;
+&lt;p&gt;综合历史研判分析，发现本轮行情与 1999 年 519 行情较为相似，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;两轮行情启动的背景都是在市场持续下跌多年的低位&lt;/li&gt;
+&lt;li&gt;经济均面临通缩压力&lt;/li&gt;
+&lt;li&gt;都是由政策端突然发力，带动市场快速放量大涨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在面临通缩压力、信心低迷，资产负债表衰退的情况下，股市和房市作为最主要的资产代表，对股市和房市进行刺激上涨是带动资产负债表修复走出困境的重要一步。&lt;/p&gt;
+&lt;p&gt;回顾更多的历史，发现每次利好政策驱动的牛市在经过短期的快速拉升后，都会进入一个区间在 8%-16%左右，持续多个月以上的较长时间的宽幅震荡。当前应该还属于流动性改善，快速拉升的第一阶段，而后续能不能演变成牛市还得看基本面的恢复情况。接下来的一周，密切关注&lt;font color=red&gt;成交量&lt;/font&gt;和&lt;font color=red&gt;换手率&lt;/font&gt;的变化情况。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.bysniper.win/99chart.jpg&#34; alt=&#34;99年行情&#34;&gt;
+99 年 519 行情&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.bysniper.win/06chart.jpg&#34; alt=&#34;06年行情&#34;&gt;
+06 年行情&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.bysniper.win/14chart.jpg&#34; alt=&#34;14年行情&#34;&gt;
+14 年行情&lt;/p&gt;
+&lt;h2 id=&#34;明天操作思路&#34;&gt;明天操作思路&lt;/h2&gt;
+&lt;p&gt;国庆假期期间，港股本周交易了 4 天，恒指上涨 10.2%，恒科上涨 17.38%，市场热度持续，预计明天高开无忧。我打算明天上午卖出上周套利转股的股票，之后继续买入折价转债进行套利；卖出恒生创新药 ETF、科创财通基金，转而申购有溢价的 lof 基金进行套利。&lt;/p&gt;
+&lt;p&gt;由于创业板科创板等散户买入限制和择股担忧，散户会更多的选择直接买指数基金，导致基金涨幅大于实际净值，产生溢价。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;基金代码&lt;/th&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;溢价率%&lt;/th&gt;
+&lt;th&gt;申购费%&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;164705&lt;/td&gt;
+&lt;td&gt;恒生 LOF&lt;/td&gt;
+&lt;td&gt;11.82&lt;/td&gt;
+&lt;td&gt;1.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;164906&lt;/td&gt;
+&lt;td&gt;中概互联网 LOF&lt;/td&gt;
+&lt;td&gt;5.68&lt;/td&gt;
+&lt;td&gt;1.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;501060&lt;/td&gt;
+&lt;td&gt;金选 300A 类 LOF&lt;/td&gt;
+&lt;td&gt;14.05&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;160223&lt;/td&gt;
+&lt;td&gt;创业板 LOF&lt;/td&gt;
+&lt;td&gt;6.93&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;502006&lt;/td&gt;
+&lt;td&gt;国企改革 LOF&lt;/td&gt;
+&lt;td&gt;18.64&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;168701&lt;/td&gt;
+&lt;td&gt;金融科技 LOF&lt;/td&gt;
+&lt;td&gt;8.1&lt;/td&gt;
+&lt;td&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>时间复杂度分析</title>
+    <link>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</link>
+    <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+    <author>bysniper</author>
+    <guid>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</guid>
+    <description>
+        &lt;p&gt;学习数据结构和算法可以有效提高我们代码的执行效率，那么怎么衡量代码的执行效率呢，这就涉及到数据结构和算法课程中重要的基础内容——复杂度分析。复杂度分析又有时间复杂度分析和空间复杂度分析，通俗地讲，就是看执行算法消耗了多少时间和空间，今天就来学习下时间复杂度分析。&lt;/p&gt;
+&lt;h3 id=&#34;大-o-表示法&#34;&gt;大 O 表示法&lt;/h3&gt;
+&lt;p&gt;这里有段非常简单的代码，求 1,2,3&amp;hellip;n 的累加和。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;cal&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;从 CPU 的角度来看，这段代码的每一行都执行着类似的操作：读数据-运算-写数据。尽管每行代码对应的 CPU 执行的个数、执行的时间都不一样，但是，我们这里只是粗略估计，所以可以假设每行代码执行的时间都一样，为 unit_time。在这个假设的基础之上，这段代码的总执行时间是多少呢？&lt;/p&gt;
+&lt;p&gt;第 2、3 行代码分别需要 1 个 unit_time 的执行时间，第 4、5 行都运行了 n 遍，所以需要 2n 个 unit_time 的执行时间，所以这段代码总的执行时间就是 (2n+2)个 unit_time。可以看出来，所有代码的执行时间 T(n) 与每行代码的执行次数成正比。按照这个分析思路，我们再来看这段代码。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;cal&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;j&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;       &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我们依旧假设每个语句的执行时间是 unit_time。那这段代码的总执行时间 T(n) 是多少呢？&lt;/p&gt;
+&lt;p&gt;第 2、3、4 行代码，每行都需要 1 个 unit_time 的执行时间，第 5、6 行代码循环执行了 n 遍，需要 2n _ unit_time 的执行时间，第 7、8 行代码循环执行了 n&lt;sup&gt;2&lt;/sup&gt;遍，所以需要 2n&lt;sup&gt;2&lt;/sup&gt;_ unit_time 的执行时间。所以，整段代码总的执行时间 T(n) = (2n&lt;sup&gt;2&lt;/sup&gt;+2n+3)*unit_time。&lt;/p&gt;
+&lt;p&gt;尽管我们不知道 unit_time 的具体值，但是通过这两段代码执行时间的推导过程，我们可以得到一个非常重要的规律，那就是，所有代码的执行时间 T(n) 与每行代码的执行次数 f(n) 成正比。&lt;/p&gt;
+&lt;p&gt;我们可以把这个规律总结成一个公式。&lt;/p&gt;
+&lt;p&gt;$$
+T(n) = O(f(n))
+$$&lt;/p&gt;
+&lt;p&gt;其中，T(n) 表示代码执行的时间；n 表示数据规模的大小；f(n) 表示每行代码执行的次数总和。因为这是一个公式，所以用 f(n) 来表示。公式中的 O，表示代码的执行时间 T(n) 与 f(n) 表达式成正比。&lt;/p&gt;
+&lt;p&gt;所以，第一个例子中的 T(n) = O(2n+2)，第二个例子中的 T(n) = O(2n&lt;sup&gt;2&lt;/sup&gt;+2n+3)。这就是大 O 时间复杂度表示法。大 O 时间复杂度实际上并不具体表示代码真正的执行时间，而是表示代码执行时间随数据规模增长的变化趋势，所以，也叫作渐进时间复杂度（asymptotic time complexity），简称时间复杂度。&lt;/p&gt;
+&lt;p&gt;当 n 很大时，你可以把它想象成 10000、100000。而公式中的低阶、常量、系数三部分并不左右增长趋势，所以都可以忽略。我们只需要记录一个最大量级就可以了，如果用大 O 表示法表示刚讲的那两段代码的时间复杂度，就可以记为：T(n) = O(n)； T(n) = O(n&lt;sup&gt;2&lt;/sup&gt;)。&lt;/p&gt;
+&lt;h3 id=&#34;时间复杂度分析&#34;&gt;时间复杂度分析&lt;/h3&gt;
+&lt;p&gt;如何分析一段代码的时间复杂度？有三个比较实用的方法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1、只关注循环次数最多的一段代码&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上文提到，大 O 这种复杂度表示方法只是表示一种变化趋势。我们通常会忽略掉公式中的常量、低阶、系数，只需要记录一个最大阶的量级就可以了。所以，我们在分析一个算法、一段代码的时间复杂度的时候，也只关注循环执行次数最多的那一段代码就可以了。这段核心代码执行次数的 n 的量级，就是整段要分析代码的时间复杂度。&lt;/p&gt;
+&lt;p&gt;为了便于理解，还是拿前面的例子来说明。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;cal&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;其中第 2、3 行代码都是常量级的执行时间，与 n 的大小无关，所以对于复杂度并没有影响。循环执行次数最多的是第 4、5 行代码，所以这块代码要重点分析。前面也讲过，这两行代码被执行了 n 次，所以总的时间复杂度就是 O(n)。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、加法法则：总复杂度等于量级最大的那段代码的复杂度&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;再来试着分析下面这段代码&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;cal&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;q&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;q&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;q&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;q&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;j&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;       &lt;span class=&#34;n&#34;&gt;sum_3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个代码分为三部分，分别是求 sum_1、sum_2、sum_3。我们可以分别分析每一部分的时间复杂度，然后把它们放到一块儿，再取一个量级最大的作为整段代码的复杂度。&lt;/p&gt;
+&lt;p&gt;第一段的时间复杂度是多少呢？这段代码循环执行了 100 次，所以是一个常量的执行时间，跟 n 的规模无关。&lt;/p&gt;
+&lt;p&gt;这里我要再强调一下，即便这段代码循环 10000 次、100000 次，只要是一个已知的数，跟 n 无关，照样也是常量级的执行时间。当 n 无限大的时候，就可以忽略。尽管对代码的执行时间会有很大影响，但是回到时间复杂度的概念来说，它表示的是一个算法执行效率与数据规模增长的变化趋势，所以不管常量的执行时间多大，我们都可以忽略掉。因为它本身对增长趋势并没有影响。&lt;/p&gt;
+&lt;p&gt;那第二段代码和第三段代码的时间复杂度是多少呢？答案是 O(n) 和 O(n2)，你应该能容易就分析出来。&lt;/p&gt;
+&lt;p&gt;综合这三段代码的时间复杂度，我们取其中最大的量级。所以，整段代码的时间复杂度就为 O(n&lt;sup&gt;2&lt;/sup&gt;)。也就是说：总的时间复杂度就等于量级最大的那段代码的时间复杂度。那我们将这个规律抽象成公式就是：如果 T1(n)=O(f(n))，T2(n)=O(g(n))；那么 T(n)=T1(n)+T2(n)=max(O(f(n)), O(g(n))) =O(max(f(n), g(n)))。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、乘法法则：嵌套代码的复杂度等于嵌套内外代码复杂度的乘积&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我刚讲了一个复杂度分析中的加法法则，这儿还有一个乘法法则。&lt;/p&gt;
+&lt;p&gt;如果 T1(n)=O(f(n))，T2(n)=O(g(n))；那么 T(n)=T1(n)*T2(n)=O(f(n))*O(g(n))=O(f(n)*g(n))。&lt;/p&gt;
+&lt;p&gt;也就是说，假设 T1(n) = O(n)，T2(n) = O(n&lt;sup&gt;2&lt;/sup&gt;)，则 T1(n) * T2(n) = O(n&lt;sup&gt;3&lt;/sup&gt;)。落实到具体的代码上，我们可以把乘法法则看成是嵌套循环，举个例子。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;cal&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ret&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;ret&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ret&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我们单独看 cal() 函数。假设 f() 只是一个普通的操作，那第 4 ～ 6 行的时间复杂度就是，T1(n) = O(n)。但 f() 函数本身不是一个简单的操作，它的时间复杂度是 T2(n) = O(n)，所以，整个 cal() 函数的时间复杂度就是，T(n) = T1(n) * T2(n) = O(n*n) = O(n&lt;sup&gt;2&lt;/sup&gt;)。&lt;/p&gt;
+&lt;p&gt;这三种复杂度的分析技巧并不用刻意去记忆，这个东西关键在于“熟练”。只要多看案例，多分析，就能做到“无招胜有招”。&lt;/p&gt;
+&lt;h3 id=&#34;几种常见时间复杂度实例分析&#34;&gt;几种常见时间复杂度实例分析&lt;/h3&gt;
+&lt;p&gt;虽然代码千差万别，但是常见的复杂度量级并不多。总结一下&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;常量阶 O(1)&lt;/li&gt;
+&lt;li&gt;对数阶 O(logn)&lt;/li&gt;
+&lt;li&gt;线性阶 O(n)&lt;/li&gt;
+&lt;li&gt;线性对数阶 O(nlogn)&lt;/li&gt;
+&lt;li&gt;平方阶 O(n&lt;sup&gt;2&lt;/sup&gt;)、立方阶 O(n&lt;sup&gt;3&lt;/sup&gt;)、、、k 次方阶 O(n&lt;sup&gt;k&lt;/sup&gt;)&lt;/li&gt;
+&lt;li&gt;指数阶 O(2&lt;sup&gt;n&lt;/sup&gt;)&lt;/li&gt;
+&lt;li&gt;阶乘阶 O(n!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对于刚罗列的复杂度量级，我们可以粗略地分为两类，多项式量级和非多项式量级。其中，非多项式量级只有两个：O(2&lt;sup&gt;n&lt;/sup&gt;) 和 O(n!)。&lt;/p&gt;
+&lt;p&gt;我们把时间复杂度为非多项式量级的算法问题叫作 NP（Non-Deterministic Polynomial，非确定多项式）问题。&lt;/p&gt;
+&lt;p&gt;当数据规模 n 越来越大时，非多项式量级算法的执行时间会急剧增加，求解问题的执行时间会无限增长。所以，非多项式时间复杂度的算法其实是非常低效的算法。因此，关于 NP 时间复杂度就不展开讲了。我们主要来看几种常见的多项式时间复杂度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.O(1)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首先你必须明确一个概念，O(1) 只是常量级时间复杂度的一种表示方法，并不是指只执行了一行代码。比如这段代码，即便有 3 行，它的时间复杂度也是 O(1），而不是 O(3)。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;总结一下，只要代码的执行时间不随 n 的增大而增长，这样代码的时间复杂度我们都记作 O(1)。或者说，一般情况下，只要算法中不存在循环语句、递归语句，即使有成千上万行的代码，其时间复杂度也是 Ο(1)。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.O(logn)、O(nlogn)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对数阶时间复杂度非常常见，同时也是最难分析的一种时间复杂度。通过一个例子来说明一下。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;k&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;根据我们前面讲的复杂度分析方法，第三行代码是循环执行次数最多的。所以，我们只要能计算出这行代码被执行了多少次，就能知道整段代码的时间复杂度。&lt;/p&gt;
+&lt;p&gt;从代码中可以看出，变量 i 的值从 1 开始取，每循环一次就乘以 2。当大于 n 时，循环结束。还记得我们高中学过的等比数列吗？实际上，变量 i 的取值就是一个等比数列。如果我把它一个一个列出来，就应该是这个样子的：&lt;/p&gt;
+&lt;p&gt;$$
+2^0 2^1 2^2、、、2^x=n
+$$&lt;/p&gt;
+&lt;p&gt;所以，我们只要知道 x 值是多少，就知道这行代码执行的次数了。通过 2&lt;sup&gt;x&lt;/sup&gt;=n 求解 x 这个问题我们想高中应该就学过了，我就不多说了。x=log&lt;sub&gt;2&lt;/sub&gt;n，所以，这段代码的时间复杂度就是 O(log&lt;sub&gt;2&lt;/sub&gt;n)。&lt;/p&gt;
+&lt;p&gt;现在，把代码稍微改下，再看看，这段代码的时间复杂度是多少？&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;k&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;根据之前讲的思路，很简单就能看出来，这段代码的时间复杂度为 O(log&lt;sub&gt;3&lt;/sub&gt;n)。&lt;/p&gt;
+&lt;p&gt;实际上，不管是以 2 为底、以 3 为底，还是以 10 为底，我们可以把所有对数阶的时间复杂度都记为 O(logn)。为什么呢？&lt;/p&gt;
+&lt;p&gt;我们知道，对数之间是可以互相转换的，log&lt;sub&gt;3&lt;/sub&gt;n 就等于 log&lt;sub&gt;3&lt;/sub&gt;2 _ log&lt;sub&gt;2&lt;/sub&gt;n，所以 O(log&lt;sub&gt;3&lt;/sub&gt;n) = O(C _ log&lt;sub&gt;2&lt;/sub&gt;n)，其中 C=log&lt;sub&gt;3&lt;/sub&gt;2 是一个常量。基于我们前面的一个理论：在采用大 O 标记复杂度的时候，可以忽略系数，即 O(Cf(n)) = O(f(n))。所以，O(log&lt;sub&gt;2&lt;/sub&gt;n) 就等于 O(log&lt;sub&gt;3&lt;/sub&gt;n)。因此，在对数阶时间复杂度的表示方法里，我们忽略对数的“底”，统一表示为 O(logn)。如果你理解了我前面讲的 O(logn)，那 O(nlogn) 就很容易理解了。还记得我们刚讲的乘法法则吗？如果一段代码的时间复杂度是 O(logn)，我们循环执行 n 遍，时间复杂度就是 O(nlogn) 了。而且，O(nlogn) 也是一种非常常见的算法时间复杂度。比如，归并排序、快速排序的时间复杂度都是 O(nlogn)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.O(m+n)、O(m*n)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们再来讲一种跟前面都不一样的时间复杂度，代码的复杂度由两个数据的规模来决定。老规矩，先看代码！&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;cal&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;m&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;m&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;j&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;j&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sum_2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;从代码中可以看出，m 和 n 是表示两个数据规模。我们无法事先评估 m 和 n 谁的量级大，所以我们在表示复杂度的时候，就不能简单地利用加法法则，省略掉其中一个。所以，上面代码的时间复杂度就是 O(m+n)。&lt;/p&gt;
+&lt;p&gt;针对这种情况，原来的加法法则就不正确了，我们需要将加法规则改为：T1(m) + T2(n) = O(f(m) + g(n))。但是乘法法则继续有效：T1(m)_T2(n) = O(f(m) _ f(n))。&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>凌晨四点的洛杉矶</title>
+    <link>https://bysniper.win/posts/mamba/</link>
+    <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+    
+    <guid>https://bysniper.win/posts/mamba/</guid>
+    <description>
+        &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=846152760&amp;bvid=BV1z54y1G7KL&amp;cid=354795996&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; width=&#34;100%&#34; style=&#34;aspect-ratio: 4/3&#34;&gt; &lt;/iframe&gt;
+
+    </description>
     </item>
     
   </channel>

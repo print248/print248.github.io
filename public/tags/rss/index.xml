@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rss on bysniper</title>
+    <link>https://bysniper.win/tags/rss/</link>
+    <description>Recent content in rss on bysniper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2024 14:26:00 +0800</lastBuildDate><atom:link href="https://bysniper.win/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>让hugo博客支持RSS全文输出</title>
+      <link>https://bysniper.win/posts/hugorss/</link>
+      <pubDate>Sun, 13 Oct 2024 14:26:00 +0800</pubDate>
+      
+      <guid>https://bysniper.win/posts/hugorss/</guid>
+      <description>早上醒来，朋友发来了一条消息，分享了一枚 Follow 邀请码给我，很惊喜，立马上手体验了下。相较于传统的 RSS 阅读器，Follow 不仅界面更加简洁清爽，还巧妙地融合了社交和经济生态属性，使用体验令人耳目一新。尤其是在订阅自己的博客后，发现居然有用户在 Follow 上阅读我的博客，非常开心，突然就有了继续更新博客的动力。 然而，美</description>
+    </item>
+    
+  </channel>
+</rss>

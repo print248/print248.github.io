@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>post on bysniper</title>
-    <link>https://bysniper.win/posts/</link>
-    <description>Recent content in post on bysniper</description>
+    <title>投资记录 on bysniper</title>
+    <link>https://bysniper.win/tags/%E6%8A%95%E8%B5%84%E8%AE%B0%E5%BD%95/</link>
+    <description>Recent content in 投资记录 on bysniper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/tags/%E6%8A%95%E8%B5%84%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>技术性调整？</title>
       <link>https://bysniper.win/posts/20241102/</link>
@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>让hugo博客支持RSS全文输出</title>
-      <link>https://bysniper.win/posts/hugorss/</link>
-      <pubDate>Sun, 13 Oct 2024 14:26:00 +0800</pubDate>
-      
-      <guid>https://bysniper.win/posts/hugorss/</guid>
-      <description>早上醒来，朋友发来了一条消息，分享了一枚 Follow 邀请码给我，很惊喜，立马上手体验了下。相较于传统的 RSS 阅读器，Follow 不仅界面更加简洁清爽，还巧妙地融合了社交和经济生态属性，使用体验令人耳目一新。尤其是在订阅自己的博客后，发现居然有用户在 Follow 上阅读我的博客，非常开心，突然就有了继续更新博客的动力。 然而，美</description>
-    </item>
-    
-    <item>
       <title>缅A归位，未来可期</title>
       <link>https://bysniper.win/posts/20241011/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -86,33 +77,6 @@
       
       <guid>https://bysniper.win/posts/20241008/</guid>
       <description>市场回顾与复盘 今日上证指数上涨 4.39%，沪深 300 上涨 5.93%，创业板上涨 17.25%，转债等权上涨 3.52%。 我的组合上涨 4.83%，勉强跑赢上证指数。 心心念念的赌场终于开门了，没想到开盘即巅峰，各大指数接近涨停开盘，旋即高开低走，半个小时就回撤了 5 个点左右，盘中最低回撤更是接近 9 个点，得亏后续买</description>
-    </item>
-    
-    <item>
-      <title>牛市已来，赶紧上车？</title>
-      <link>https://bysniper.win/posts/bull2024/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/bull2024/</guid>
-      <description>国庆 7 天长假终于快要结束了，相信每一个大 A 股（jiu）民(cai)都和我一样，从来没有如此殷切期盼过假期早点结束。终于，明天赌场要开门了，不知道排队开户的散户，跑步进场的外资们弹药是否就位，是否已经做好大干一场的准备。作为一名入市 3 年从来没有经历过牛市的小散户，着实是被节前几日热情高涨的市场氛围震惊</description>
-    </item>
-    
-    <item>
-      <title>时间复杂度分析</title>
-      <link>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</guid>
-      <description>学习数据结构和算法可以有效提高我们代码的执行效率，那么怎么衡量代码的执行效率呢，这就涉及到数据结构和算法课程中重要的基础内容——复杂度分析。复杂度分析又有时间复杂度分析和空间复杂度分析，通俗地讲，就是看执行算法消耗了多少时间和空间，今天就来学习下时间复杂度分析。 大 O 表示法 这里有段非常简单的代码，求 1,2,3&amp;hellip;n</description>
-    </item>
-    
-    <item>
-      <title>凌晨四点的洛杉矶</title>
-      <link>https://bysniper.win/posts/mamba/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/mamba/</guid>
-      <description></description>
     </item>
     
   </channel>
