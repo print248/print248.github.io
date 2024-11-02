@@ -7,7 +7,3 @@ author = "bysniper"
 +++
 
 90 后、佛系青年、退役码农、大 A 股民 ... ...
-
-微信公众号：bigjian_invest
-
-![大篯爱学习](https://images.bysniper.win/bigjian_invest.jpg)
