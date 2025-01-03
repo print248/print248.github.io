@@ -6,7 +6,25 @@
     <description>Recent content in post on bysniper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bysniper.win/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11月结束，迷茫了</title>
+      <link>https://bysniper.win/posts/20241130/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/posts/20241130/</guid>
+      <description>时间过得很快，距离上次写记录文章已经过去 3 个星期了，11 月也在不声不响中结束了。回首一个月以来的市场变化，大 A 好像又回到了熟悉的模样，如果不是月底最后几天神秘力量的介入，这波牛市可能真的就要到此为止了。两个关键指标：全 A 指数 20 日均线、日成交量 1.4 万亿分别在 11 月 18 日，11 月 26 日跌破，市场情绪肉眼可见的越</description>
+    </item>
+    
+    <item>
+      <title>10万亿置换，2万亿展期</title>
+      <link>https://bysniper.win/posts/20241110/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bysniper.win/posts/20241110/</guid>
+      <description>市场回顾 11 月 6 日，美国大选尘埃落定，特朗普如愿当选下一届总统。紧随其后地，人大常委会也在周五收盘后公布了 6 万亿+4 万亿+2 万亿的地方政府化债方案。 新增批准了地方债限额 6 万亿，未来分三年实施。 未来连续 5 年每年从新增地方政府专项债券中安排 8000 亿元来化债，累计可置换隐性债务 4 万亿元。 同时明确，2029 年及以</description>
+    </item>
+    
     <item>
       <title>技术性调整？</title>
       <link>https://bysniper.win/posts/20241102/</link>
@@ -95,24 +113,6 @@
       
       <guid>https://bysniper.win/posts/bull2024/</guid>
       <description>国庆 7 天长假终于快要结束了，相信每一个大 A 股（jiu）民(cai)都和我一样，从来没有如此殷切期盼过假期早点结束。终于，明天赌场要开门了，不知道排队开户的散户，跑步进场的外资们弹药是否就位，是否已经做好大干一场的准备。作为一名入市 3 年从来没有经历过牛市的小散户，着实是被节前几日热情高涨的市场氛围震惊</description>
-    </item>
-    
-    <item>
-      <title>时间复杂度分析</title>
-      <link>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/</guid>
-      <description>学习数据结构和算法可以有效提高我们代码的执行效率，那么怎么衡量代码的执行效率呢，这就涉及到数据结构和算法课程中重要的基础内容——复杂度分析。复杂度分析又有时间复杂度分析和空间复杂度分析，通俗地讲，就是看执行算法消耗了多少时间和空间，今天就来学习下时间复杂度分析。 大 O 表示法 这里有段非常简单的代码，求 1,2,3&amp;hellip;n</description>
-    </item>
-    
-    <item>
-      <title>凌晨四点的洛杉矶</title>
-      <link>https://bysniper.win/posts/mamba/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bysniper.win/posts/mamba/</guid>
-      <description></description>
     </item>
     
   </channel>
