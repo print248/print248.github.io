@@ -1,7 +1,6 @@
 ---
 title: "2025，失落的一年"
 description: 大篯的2025投资总结
-draft: true
 keywords:
   - 2025年牛市
   - A股
